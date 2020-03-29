@@ -1,0 +1,13 @@
+zebra
+alligator
+monkey
+owl
+falcon
+kangaroo
+dragon
+lion
+horse
+cat
+eagle
+dog
+wildcat

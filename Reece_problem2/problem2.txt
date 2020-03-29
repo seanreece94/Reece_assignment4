@@ -1,0 +1,10 @@
+Jaguar
+jaguar
+lion
+panther
+Snake
+Bear
+Alligator
+Toad
+Dog
+Cat
